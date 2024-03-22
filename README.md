@@ -2,13 +2,12 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="#">Thinnathep </a></b>
+                <b><a target="_blank" href="#">Thinnathep(G'Roriconi) </a></b>
         </samp>
 </h3>
 
