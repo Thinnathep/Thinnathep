@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:050508,30:0d0d1f,70:1a0530,100:050508&height=220&section=header&text=G'NekoVoidGG&fontSize=60&fontColor=b847ff&animation=twinkling&fontAlignY=48&desc=void%20%2F%2F%20code%20%2F%2F%20survive&descSize=16&descAlignY=68&descColor=00f5ff)](https://github.com/Thinnathep)
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:050508,30:0d0d1f,70:1a0530,100:050508&height=220&section=header&text=G'NekoVoidGG&fontSize=60&fontColor=b847ff&animation=twinkling&fontAlignY=48&desc=void%20%2F%2F%20code%20%2F%2F%20automate&descSize=16&descAlignY=68&descColor=00f5ff)](https://github.com/Thinnathep)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+Automation+Architect;Vue.js+%E2%80%A2+Laravel+%E2%80%A2+AppSheet+%E2%80%A2+Apps+Script;Founder+%40+Kuro+Neko+Digital;if+(coffee+%3D%3D+0)+%7B+panic()%3B+%7D;git+commit+-m+%22it+works+on+my+machine%22;อยู่ดีๆ+bug+ก็ขึ้น+%F0%9F%90%9B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=640&lines=Builder+%40+Clean+Food+Chiang+Rai;React+19+%E2%80%A2+Supabase+%E2%80%A2+AppSheet+%E2%80%A2+Apps+Script;Founder+%40+Kuro+Neko+Digital;if+(automation+%3D%3D+90%25)+%7B+scale()%3B+%7D;git+commit+-m+%22stabilize+marketing+ops%22;\u0e2d\u0e22\u0e39\u0e48\u0e14\u0e35%E0%B9%86+bug+\u0e01\u0e47\u0e02\u0e36%E0%B9%89\u0e19+%F0%9F%90%9B)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,10 +15,9 @@
 <!-- SOCIAL LINKS -->
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-050508?style=for-the-badge&logoColor=white)](https://github.com/Thinnathep)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Website](https://img.shields.io/badge/🌐_Kuro_Neko_Digital-050508?style=for-the-badge&logoColor=white)](https://github.com/Thinnathep)
+[![LINE](https://img.shields.io/badge/LINE-@282ovoyd-00B900?style=for-the-badge&logo=line&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thinnathep)
 
 </div>
 
@@ -34,21 +33,24 @@
 $ cat about.txt
 
   Name      : GG (Thinnathep)
-  Role      : Full-Stack Developer & Automation Builder
+  Role      : Solo Founder / Full-Stack Dev / Systems Architect
   Location  : Chiang Rai, Thailand 🇹🇭
+  Operating : Clean Food Chiang Rai (healthy meal subscriptions)
+  Building  : e-Ward · ERP CL FOOD CR · Kuro Neko Digital
   Guild     : Kuro Neko Digital 🐈‍⬛
-  Status    : ⚡ Always Building Something
-  Hobbies   : Code • Coffee • Albion Online • MLBB
-  Philosophy: Ship first, apologize later 🚀
+  Status    : ⚡ shipping solo, scaling later
+  Philosophy: direct execution > endless ideation
 ```
 
-> 🔭 กำลังโฟกัสกับ **Web Apps (Vue/Laravel) & Automation Systems (AppSheet/Apps Script)**
+> 🔭 กำลังโฟกัสกับ **ระบบหลังบ้าน Clean Food CR** — order flow, slip verification, subscription packages (7-day / 14-day / 1-month)
 >
-> 🌱 สนใจการนำ **AI Agents และ Agentic Workflows** มาใช้ในธุรกิจจริง
+> 🌱 กำลังสร้าง **e-Ward** (Hospital Assignment & Handover System) และ **ERP CL FOOD CR** ด้วย React 19 + Supabase
 >
-> 💬 ถามได้ทุกเรื่องเกี่ยวกับ **System Development, Google Workspace Automation**
+> 🧠 ใช้ AI agents (Gemini Gems: Akari, SORA, KIRA, Nagi) เป็นทีมที่ปรึกษาเสมือนสำหรับธุรกิจ
 >
-> ⚡ Fun fact: `bug` ที่หาไม่เจอ = `feature` ที่ยังไม่ได้ document
+> 💬 ถามได้ทุกเรื่อง: **System Architecture, Supabase/RLS, GAS Automation, Cloudflare Workers**
+>
+> ⚡ Fun fact: ผูกปิ่นโต subscription engine = SaaS product ที่ยังไม่รู้ตัวว่าเป็น SaaS
 
 ---
 
@@ -60,21 +62,21 @@ $ cat about.txt
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  🧠 BRAIN           [████████████░░░░░░░░]  60%  (needs coffee)
-║  ☕ COFFEE          [████████████████████]  100% (don't touch)  
-║  🐛 BUGS            [████████████████████]  MAX  (it's fine)
-║  😤 PATIENCE        [███░░░░░░░░░░░░░░░░░]  15%  (Monday)
-║  💀 DEPLOY FEAR     [████████████████░░░░]  80%  (always)
-║  🐱 CAT ENERGY      [████████████████████]  999% (undefined)
+║  🧠 FOCUS           [██████████████░░░░░░]  70%  (marketing ops)
+║  ☕ COFFEE          [████████████████████]  100% (non-negotiable)
+║  🐱 GEMINI GEMS     [████████████████░░░░]  80%  (Akari/SORA/KIRA/Nagi)
+║  💀 DEPLOY FEAR     [████████████████░░░░]  80%  (Cloudflare Workers)
+║  📦 e-Ward          [██████████░░░░░░░░░░]  50%  (React 19 + Supabase)
+║  🐈‍⬛ KURO NEKO      [████████░░░░░░░░░░░░]  40%  (proof-of-concept live)
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-![](https://img.shields.io/badge/☕_Coffee_Level-CRITICAL-ff2d78?style=flat-square&labelColor=0d0d1f)
-![](https://img.shields.io/badge/🐛_Bug_Status-Alive_&_Thriving-b847ff?style=flat-square&labelColor=0d0d1f)
-![](https://img.shields.io/badge/🔥_Production-It's_Fine-00f5ff?style=flat-square&labelColor=0d0d1f)
-![](https://img.shields.io/badge/😴_Last_Sleep-Unknown-ffd700?style=flat-square&labelColor=0d0d1f)
+![](https://img.shields.io/badge/🥗_Clean_Food_CR-LIVE-00f5ff?style=flat-square&labelColor=0d0d1f)
+![](https://img.shields.io/badge/🏥_e--Ward-In_Dev-b847ff?style=flat-square&labelColor=0d0d1f)
+![](https://img.shields.io/badge/📊_ERP_CL_FOOD_CR-In_Dev-ff2d78?style=flat-square&labelColor=0d0d1f)
+![](https://img.shields.io/badge/🐈‍⬛_Kuro_Neko_Digital-PoC-ffd700?style=flat-square&labelColor=0d0d1f)
 
 </div>
 
@@ -89,28 +91,73 @@ $ cat about.txt
 <div align="center">
 
 ### 🎨 Frontend
+![React](https://img.shields.io/badge/React_19-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss_4-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ Backend & Data
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### 📊 Automation & Low-Code
 ![AppSheet](https://img.shields.io/badge/AppSheet-0F9D58?style=for-the-badge&logo=google&logoColor=white)
 ![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🧠 AI & State
+![Gemini](https://img.shields.io/badge/Gemini_Gems-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
 </div>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                   PROJECT SPOTLIGHT                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## 🚀 Active Builds
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🥗 Clean Food CR
+Healthy meal subscriptions, Chiang Rai.
+Solo-operated: tech, ops, marketing, delivery.
+
+`Supabase` `GAS` `Cloudflare Workers` `SlipOK API`
+
+Live order pipeline + ผูกปิ่นโต subscription engine.
+
+</td>
+<td width="33%" valign="top">
+
+### 🏥 e-Ward
+Hospital Assignment & Handover System.
+
+`React 19` `TS` `Supabase` `FullCalendar` `dnd-kit` `Framer Motion`
+
+PWA-ready, drag-and-drop shift handover.
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 ERP CL FOOD CR
+Backoffice system for Clean Food CR.
+
+`React 19` `Zustand` `TanStack Query 5` `Dayjs`
+
+Future SaaS template under Kuro Neko Digital.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -128,20 +175,6 @@ $ cat about.txt
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Thinnathep&theme=tokyonight&hide_border=true&background=050508&ring=b847ff&fire=ff2d78&currStreakLabel=00f5ff&sideLabels=00f5ff&currStreakNum=ffffff&sideNums=c8c8e8&dates=5a5a7a)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                      TROPHIES                                 -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-## 🏆 Void Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thinnathep&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -176,7 +209,33 @@ $ cat about.txt
 ---
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--                   DEV QUOTES / JOKES                         -->
+<!--              🎮 PLAY THE VOID (interactive)                  -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## 🎮 `./play.sh`
+
+<div align="center">
+
+<a href="https://github.com/Thinnathep/Thinnathep/blob/main/neko-runner.html">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80&section=header&text=▶%20PLAY%20NEKO_VOID%20RUNNER&fontSize=24&fontColor=00f5ff&animation=blink&fontAlignY=55" />
+</a>
+
+```
+  /\_____/\
+ (  OwO  )    ← dodge the bugs.exe
+  > ♦ ♦  <       grab the coffee
+  (  ___  )       don't touch the fire
+   \_____/    git commit -m "ship anyway"
+```
+
+*2D runner built with Canvas — jump bugs, collect ☕, double-jump unlocks at 500pts*
+
+</div>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    DEV WISDOM                                 -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 ## 🧠 `cat wisdom.log`
@@ -185,82 +244,20 @@ $ cat about.txt
 
 > *"Code never lies, comments sometimes do."* — Ron Jeffries
 >
-> *"โค้ดที่เขียนเร็วคือโค้ดที่ fix ช้า"* — ใครสักคนที่เคย deploy ศุกร์บ่ายสาม
+> *"ระบบที่ดีที่สุด คือระบบที่เจ้าของมันไม่ต้องอยู่"* — GG, probably
 >
-> *"It's not a bug, it's an undocumented feature."* — ทุก dev ในโลก
+> *"It's not a bug, it's an undocumented feature."* — every dev ever
 >
-> *"จะ refactor วันจันทร์"* — spoken every Friday, never done
+> *"ผูกปิ่นโต ก็คือ SaaS แค่ยังไม่มีใครบอกมัน"* — Kuro Neko Digital, 2026
 >
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
->
-> *"โปรแกรมเมอร์มี 2 ประเภท: คนที่ทำ backup และคนที่จะทำ"* — dev ที่เคยร้องไห้
+> *"Direct execution beats endless ideation."* — house rule
 
 </div>
 
 ---
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--                    DEV LIFE TIMELINE                          -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-## 📅 A Day in the Void
-
-```
-06:00  😴 zzz...
-08:00  ☕ Boot sequence initiated (coffee loading...)
-08:15  💻 Open VS Code. Close VS Code. Open again.
-09:00  🔥 "Quick fix" — estimated: 5 min / actual: 3 hours
-12:00  🍜 Lunch (eating while Googling Stack Overflow)
-13:00  🐛 Found a bug → fixed it → created 3 new bugs
-15:00  📖 "I'll just read the docs real quick"
-17:00  🤯 "Why does this work???" (scarier than when it doesn't)
-18:00  🚀 git push --force (yolo)
-19:00  📱 Gets Slack notification. Production is down.
-19:01  🏃 git revert HEAD~1
-22:00  😌 "Just one more feature before bed"
-03:00  😵 git commit -m "final final FINAL fix v3"
-```
-
----
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                      CAT SECTION                              -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-## 😹 `cat cat.exe`
-
-<div align="center">
-
-```
-  /\_____/\
- (  OwO  )    ← meow. I am in ur code
-  > ♦ ♦  <       deleting ur semicolons
-  (  ___  )
-   \_____/    git commit -m "cat did it"
-```
-
-</div>
-
-> 🐾 **Kuro Neko Philosophy:** แมวดำไม่ได้โชคร้าย แค่เลือก dark mode ตลอดชีวิต
-
----
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                    RANDOM DEV JOKE                           -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-## 🃏 Today's Dev Joke
-
-<div align="center">
-
-[![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)](https://github.com/ABSphreak/readme-jokes)
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                     FOOTER                                   -->
+<!--                      FOOTER                                   -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -270,11 +267,11 @@ $ cat about.txt
 ### 📡 Void Signal
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Thinnathep&label=Void+Visitors&color=b847ff&style=for-the-badge)
-![](https://img.shields.io/badge/Powered_by-Caffeine_&_Existential_Dread-b847ff?style=for-the-badge&labelColor=0d0d1f)
+![](https://img.shields.io/badge/Powered_by-Caffeine_%26_Systems_Thinking-b847ff?style=for-the-badge&labelColor=0d0d1f)
 
 <br/>
 
-*"ถ้าโค้ดมันทำงาน อย่าแตะมัน — ever."*
+*"ระบบดี ไม่ต้องอยู่ดูแลตลอดเวลา — that's the whole point."*
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:050508,50:1a0530,100:050508&height=120&section=footer&text=Thanks+for+visiting+the+Void+🐾&fontSize=14&fontColor=5a5a7a&animation=fadeIn)](https://github.com/Thinnathep)
 
