@@ -1,6 +1,4 @@
-<!-- เปลี่ยน USERNAME เป็นชื่อ GitHub ของเธอ (ทั้งไฟล์) -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1038,100:ff7eb6&height=200&section=header&text=Jirawat%20Thanla&fontColor=ffffff&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Kuro%20Neko%20Digital%20%C2%B7%20Chiang%20Rai&descAlignY=58&descSize=16" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1038,100:ff7eb6&height=200&section=header&text=Jirawat%20Thanla&fontColor=ffffff&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Kuro%20Neko%20Digital%20%C2%B7%&descAlignY=58&descSize=16" alt="header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=FF7EB6&center=true&vCenter=true&width=640&lines=อายุ+26+%7C+ผู้ก่อตั้งเดี่ยว+%F0%9F%90%88%E2%80%8D%E2%AC%9B;ใช้+AI+จนเขียนโค้ดเองไม่เป็นแล้ว...;แต่+%22ผังการทำงาน%22+ข้างในยังเป็นของฉันทุกบรรทัด;ทำระบบให้ธุรกิจอาหารสะอาดวิ่งเองได้+90%25" alt="typing" />
