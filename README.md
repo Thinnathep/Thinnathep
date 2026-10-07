@@ -1,23 +1,28 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1038,100:ff7eb6&height=200&section=header&text=Jirawat%20Thanla&fontColor=ffffff&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Kuro%20Neko%20Digital%20%C2%B7%&descAlignY=58&descSize=16" alt="header" />
+<!-- เปลี่ยน USERNAME เป็นชื่อ GitHub ของเธอ (ทั้งไฟล์) -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1038,100:ff7eb6&height=200&section=header&text=Jirawat%20Thanla&fontColor=ffffff&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Kuro%20Neko%20Digital%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=16" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=FF7EB6&center=true&vCenter=true&width=640&lines=อายุ+26+%7C+ผู้ก่อตั้งเดี่ยว+%F0%9F%90%88%E2%80%8D%E2%AC%9B;ใช้+AI+จนเขียนโค้ดเองไม่เป็นแล้ว...;แต่+%22ผังการทำงาน%22+ข้างในยังเป็นของฉันทุกบรรทัด;ทำระบบให้ธุรกิจอาหารสะอาดวิ่งเองได้+90%25" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=FF7EB6&center=true&vCenter=true&width=640&lines=อายุ+26+%7C+ผู้ก่อตั้งเดี่ยว+%F0%9F%90%88%E2%80%8D%E2%AC%9B;ฟูลสแตก+React+%2B+Laravel;ใช้+AI+จนเขียนโค้ดเองไม่เป็นแล้ว...;แต่+%22ผังการทำงาน%22+ข้างในยังเป็นของฉันทุกบรรทัด;ให้+AI+ทำงานซ้ำ+ๆ+แทน+90%25" alt="typing" />
 </p>
 
 ## 🐈‍⬛ เกี่ยวกับฉัน
 
-- ชื่อ **จิระวัฒน์ ธนลา (Jirawat Thanla)** อายุ 26 อยู่เชียงราย
-- นักพัฒนาอิสระ + นักวางกลยุทธ์ เบื้องหลัง **Kuro Neko Digital**
+- ชื่อ **จิระวัฒน์ ธนลา (Jirawat Thanla)** อายุ 26
+- นักพัฒนาฟูลสแตก (React + Laravel) และนักวางกลยุทธ์ เบื้องหลัง **Kuro Neko Digital**
 - ยอมรับตรง ๆ: *ใช้ AI เขียนโค้ดจนมือลืมไปแล้ว* 😂 แต่ผมเป็นคนออกแบบ "ลำดับขั้นตอน" ทุกอย่างเอง AI แค่พิมพ์ให้
 - เป้าหมาย: เปลี่ยนระบบหลังบ้านที่ใช้จริง ให้กลายเป็นซอฟต์แวร์ที่ธุรกิจอื่นเช่าใช้ได้
 
 ## 🧰 เครื่องมือที่ใช้
 
-<p>
-  <img src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/AppSheet-1a73e8?style=for-the-badge&logo=google&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,laravel,php,ts,tailwind,mysql&perline=6" alt="stack" />
+</p>
+
+## 🎯 เส้นทางที่กำลังเดิน
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1000&color=C9A7FF&center=true&vCenter=true&width=560&lines=ขั้น+1%3A+ทำธุรกิจอาหารสะอาดให้ระบบวิ่งเองทั้งหมด;ขั้น+2%3A+เปลี่ยนระบบหลังบ้านเป็นซอฟต์แวร์ให้ธุรกิจอื่นเช่า;ขั้น+3%3A+Kuro+Neko+Digital+เอเจนซีเทคโนโลยีระดับพรีเมียม" alt="roadmap" />
 </p>
 
 ## 💣 เก็บกู้ระเบิด (เล่นในหน้านี้เลย)
